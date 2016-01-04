@@ -4,7 +4,16 @@ This is my Learn.ModernDeveloper repository, as I traverse Career Path 3!
 
 # Table of Contents
 
-## Courses
+## Communications Course
 
-1.   [Communicating Effectively For Success](Course-01-Communicating-Effectively-For-Success)  
-    My Communications Course, including all sections to date.
+### Sections
+
+#### Getting Started and Assessment
+
+##### Exercises
+* [Write an About Me](About-Me)
+* [Write your Resume](Resume)
+
+##### Projects
+* [General Communication Skills Assessment](General-Communication-Skills-Assessment)
+* [Technical Communication Skills Assessment](Technical-Communication-Skills-Assessment)
