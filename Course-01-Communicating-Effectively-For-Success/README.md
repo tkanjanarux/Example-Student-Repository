@@ -1,5 +1,5 @@
 # Communicating Effectively For Success
-this is a blurb about the communications course
+This is an intro sentence about the contents of the Course 1 directory.
 
 ## Sections
 
@@ -12,3 +12,5 @@ this is a blurb about the communications course
 #### Projects
 * [General Communication Skills Assessment](Section-01-Getting-Started-And-Assessment/General-Communication-Skills-Assessment)
 * [Technical Communication Skills Assessment](Section-01-Getting-Started-And-Assessment/Technical-Communication-Skills-Assessment)
+
+### Section 2: Principles of Good, Effective Communication
