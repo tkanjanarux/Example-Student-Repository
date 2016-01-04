@@ -12,8 +12,8 @@ this is a blurb about the communications course
 
 ##### Exercises
 * [Write an About Me](Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/About-Me)
-* [Write your Resume](Resume)
+* [Write your Resume](Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/Resume)
 
 ##### Projects
-* [General Communication Skills Assessment](General-Communication-Skills-Assessment)
-* [Technical Communication Skills Assessment](Technical-Communication-Skills-Assessment)
+* [General Communication Skills Assessment](Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/General-Communication-Skills-Assessment)
+* [Technical Communication Skills Assessment](Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/Technical-Communication-Skills-Assessment)
