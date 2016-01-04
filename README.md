@@ -1,10 +1,10 @@
-# My Modern Developer Assignment Repository
-
+# Modern Developer Student Repository
 This is my Learn.ModernDeveloper repository, as I traverse Career Path 3!
 
 # Table of Contents
 
 ## Communications Course
+this is a blurb about the communications course
 
 ### Sections
 
