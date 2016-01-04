@@ -1,3 +1,3 @@
 # Resume
 
-Copy the contents of your resume here.
+Paste the contents of your resume here.
