@@ -6,8 +6,8 @@ This is an intro sentence about the contents of the Course 1 directory.
 ### Section 1: Getting Started and Assessment
 
 #### Exercises
-* [Write an About Me](Section-01-Getting-Started-And-Assessment/About-Me)
-* [Write your Resume](Section-01-Getting-Started-And-Assessment/Resume)
+* [About Me](Section-01-Getting-Started-And-Assessment/About-Me)
+* [Resume](Section-01-Getting-Started-And-Assessment/Resume)
 
 #### Projects
 * [General Communication Skills Assessment](Section-01-Getting-Started-And-Assessment/General-Communication-Skills-Assessment)
