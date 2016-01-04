@@ -11,7 +11,7 @@ this is a blurb about the communications course
 #### Getting Started and Assessment
 
 ##### Exercises
-* [Write an About Me](About-Me)
+* [Write an About Me](Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/About-Me)
 * [Write your Resume](Resume)
 
 ##### Projects
