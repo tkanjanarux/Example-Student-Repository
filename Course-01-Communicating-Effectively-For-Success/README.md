@@ -7,10 +7,10 @@ This is an intro sentence about the contents of the Course 1 directory.
 
 #### Exercises
 * [About Me](Section-01-Getting-Started-And-Assessment/about-me.md)
-* [Resume](Resume)
+* [Resume](Section-01-Getting-Started-And-Assessment/resume.md)
 
 #### Projects
-* [General Communication Skills Assessment](Section-01-Getting-Started-And-Assessment/General-Communication-Skills-Assessment)
-* [Technical Communication Skills Assessment](Section-01-Getting-Started-And-Assessment/Technical-Communication-Skills-Assessment)
+* [General Communication Skills Assessment](Section-01-Getting-Started-And-Assessment/email.md)
+* [Technical Communication Skills Assessment](Section-01-Getting-Started-And-Assessment/reactive-programming-tutorial.md)
 
 ### Section 2: Principles of Good, Effective Communication
