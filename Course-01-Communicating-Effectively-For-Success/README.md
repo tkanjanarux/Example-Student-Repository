@@ -1,4 +1,4 @@
-# Communications Course
+# Communicating Effectively For Success
 this is a blurb about the communications course
 
 ## Sections
